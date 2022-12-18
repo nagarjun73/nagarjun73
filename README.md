@@ -17,7 +17,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagarjun73&theme=buefy&hide_border=true&border_radius=4.8&locale=kn&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" /> 
 
 
 <!---
