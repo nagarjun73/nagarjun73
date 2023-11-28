@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 📫 How to reach me ...
 - LinkedIn : https://www.linkedin.com/in/nagarjun-064615246/
-- Portfolio : https://nagarjun73.github.io/
+<!-- - Portfolio : https://nagarjun73.github.io/ -->
 
 
 <p>
